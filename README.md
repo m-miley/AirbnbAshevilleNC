@@ -52,3 +52,5 @@ After a similar comparison of other amenities, I've got a rudimentary scaffoldin
 This analysis gives us a feel for where Airbnb is in terms of their listing prices for Asheville.  The information in this analysis would be useful for existing hosts to read and decide whether they want to adjust their existing prices, as well as new hosts preparing to post their listings for the first time.  This basic pricing structure is by no means comprehensive and to build something more robust, we would need to gather more data such as stated in the final slide of the presentation.  
 
 ![Screen Shot 2022-05-05 at 10 28 34 AM](https://user-images.githubusercontent.com/100544761/166958397-f9de833e-368d-4975-9b98-dab25e18920e.png)
+
+Workbook.xlsx showcases additional analysis and charts.
