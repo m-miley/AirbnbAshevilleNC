@@ -12,7 +12,7 @@ Airbnb Data Analysis to suggest pricing structure for existing and future hosts.
 
 ![Screen Shot 2022-05-05 at 9 58 02 AM](https://user-images.githubusercontent.com/100544761/166952217-94d35d85-12b2-4dab-a20c-ad5d647e37ca.png)
 
-First, I established clear goals and hypothesized that the above fields would provide enough insight to reach an actionable solution.
+First, I set clear goals and hypothesized that the above fields would provide enough insight to reach an actionable solution.
 
 ![Screen Shot 2022-05-05 at 9 52 27 AM](https://user-images.githubusercontent.com/100544761/166952751-34a52212-9970-40ff-9814-a2e7dd6fa967.png)
 
