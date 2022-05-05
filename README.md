@@ -6,7 +6,7 @@ Resources:
     
 ## Overview
 
-Airbnb Data Analysis to suggest pricing structure.  Using Excel to analyze a raw data set, I cleaned, transformed, explored, and interpreted the data, then communicate findings in an 8 minute PowerPoint presentation using Excel visualization techniques.
+Airbnb Data Analysis to suggest pricing structure for existing and future hosts.  Using Excel to analyze a raw data set, I strategically cleaned, transformed, explored, and interpreted the data, then communicated findings in an 8 minute PowerPoint presentation by enlisting Excel visualization techniques.
 
 ## Summary
 
