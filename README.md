@@ -1,5 +1,9 @@
 # Airbnb-Asheville,NC
-
+Resources:
+  
+    - Excel
+    - PowerPoint
+    
 ## Overview
 
 Airbnb Data Analysis to suggest pricing structure.  Using Excel to analyze a raw data set, I cleaned, transformed, explored, and interpreted the data, then communicate findings in an 8 minute PowerPoint presentation using Excel visualization techniques.
@@ -30,6 +34,8 @@ Next, I established prices for each bedroom price in the entire home/apt sector.
 Following, a look at Neighborhood price categories suggest I investigate the suspect neighborhoods.
 
 ![Screen Shot 2022-05-05 at 9 53 06 AM](https://user-images.githubusercontent.com/100544761/166956049-5fe339bb-c5a7-4d91-af19-ed00f9e3e7f7.png)
+
+![Screen Shot 2022-05-05 at 10 19 08 AM](https://user-images.githubusercontent.com/100544761/166959521-632edb05-166f-46b9-9c54-9ac85cb971dc.png)
 
 Finding that location, and not size, contributed to the higher listing price, I decided that a neighborhood premium was appropriate.  Further investigation under listing description showed that the area was indeed downtown Asheville.
 
