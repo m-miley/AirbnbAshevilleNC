@@ -8,7 +8,7 @@ Resources:
 
 Airbnb Data Analysis to suggest pricing structure for existing and future hosts.  Using Excel to analyze a raw data set, I strategically cleaned, transformed, explored, and interpreted the data, then communicated findings in an 8 minute PowerPoint presentation by enlisting Excel visualization techniques.
 
-## Summary
+## Analysis
 
 ![Screen Shot 2022-05-05 at 9 58 02 AM](https://user-images.githubusercontent.com/100544761/166952217-94d35d85-12b2-4dab-a20c-ad5d647e37ca.png)
 
@@ -42,6 +42,8 @@ Finding that location, and not size, contributed to the higher listing price, I 
 Next, some basic and popular amenities begged to be analyzed.  Here, I'm showing the difference in listings with and without WiFi
 
 ![Screen Shot 2022-05-05 at 9 53 21 AM](https://user-images.githubusercontent.com/100544761/166957031-1e20e513-c014-4d98-b4d0-7d0b5be85225.png)
+
+## Summary
 
 After a similar comparison of other amenities, I've got a rudimentary scaffolding for a pricing structure:
 
