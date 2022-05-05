@@ -55,5 +55,5 @@ This analysis gives us a feel for where Airbnb is in terms of their listing pric
 
 ![Screen Shot 2022-05-05 at 10 28 34 AM](https://user-images.githubusercontent.com/100544761/166958397-f9de833e-368d-4975-9b98-dab25e18920e.png)
 
-Workbook.xlsx showcases additional analysis and charts.
+Workbook.xlsx showcases additional analysis and charts.  
 AirbnbAshvilleNC(1).pptx contains the full PowerPoint presentation.
